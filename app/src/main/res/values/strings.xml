@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Holy Water Test</string>
+    <string name="book_app">Book App</string>
+    <string name="welcome">Welcome to Book App</string>
+    <string name="library">Library</string>
+    <string name="new_arrivals">New Arrivals</string>
+    <string name="err_no_internet">Waiting for network connection</string>
+    <string name="err_server">Server error</string>
+    <string name="you_will_also_like">You will also like</string>
+    <string name="summary">Summary</string>
+    <string name="read_now">Read Now</string>
+    <string name="readers">Readers</string>
+    <string name="genre">Genre</string>
+    <string name="likes">Likes</string>
+    <string name="quotes">Quotes</string>
+
+
+    <string name="content_description">Quotes</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+</resources>
